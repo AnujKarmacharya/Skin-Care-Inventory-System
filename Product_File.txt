@@ -1,0 +1,10 @@
+1,Vitamin C Serum,Garnier,1000.0,200,France
+2,Skin Cleanser,Cetaphile,280.0,100,Switzerland
+3,Sunscreen,Aqualogica,700.0,129,India
+4,Lotion,Patanjali,200.0,60,India
+5,Oil,Baby jonson,480.0,507,London6
+6,Hydrating Facial Cleanser, CeraVe,140.0,100,USA
+7,Rice Water Bright Cleansing Foam,The Face Shop,110.0,130,South Korea
+8,sad,asdasd,123.0,2,sdasd
+9,Skin Care Soap,Gveda,300.0,200,Nepal
+10,Asd,asd,20.0,0,asd
